@@ -2,11 +2,11 @@
 
 A Serverless note taking application, with a GraphQL,TypeScript and CDK API 
 
-![alt text](https://raw.githubusercontent.com/trey-rosius/flutter_notes_app/tree/master/assets/images/a.png)
-![alt text](https://raw.githubusercontent.com/trey-rosius/flutter_notes_app/tree/master/assets/images/b.png)
-![alt text](https://raw.githubusercontent.com/trey-rosius/flutter_notes_app/tree/master/assets/images/c.png)
-![alt text](https://raw.githubusercontent.com/trey-rosius/flutter_notes_app/tree/master/assets/images/d.png)
-![alt text](https://raw.githubusercontent.com/trey-rosius/flutter_notes_app/tree/master/assets/images/e.png)
+![alt text](https://raw.githubusercontent.com/trey-rosius/flutter_notes_app/master/assets/images/a.png)
+![alt text](https://raw.githubusercontent.com/trey-rosius/flutter_notes_app/master/assets/images/b.png)
+![alt text](https://raw.githubusercontent.com/trey-rosius/flutter_notes_app/master/assets/images/c.png)
+![alt text](https://raw.githubusercontent.com/trey-rosius/flutter_notes_app/master/assets/images/d.png)
+![alt text](https://raw.githubusercontent.com/trey-rosius/flutter_notes_app/master/assets/images/e.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
