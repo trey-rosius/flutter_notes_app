@@ -1,5 +1,10 @@
 # notes
 
+# Blog Post
+This project has a blog post. You can check it out here
+
+- https://phatrabbitapps.com/building-full-stack-serverless-application-with-amplify-flutter-graphql-aws-cdk-and-typescript
+
 A Serverless note taking application, with a GraphQL,TypeScript and CDK API 
 
 ![alt text](https://raw.githubusercontent.com/trey-rosius/flutter_notes_app/master/assets/images/a.png)
